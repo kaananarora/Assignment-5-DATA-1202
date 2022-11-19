@@ -45,6 +45,6 @@ https://numpy.org/doc/ <br/>
 https://pandas.pydata.org/docs/ <br/>
 #Installation of anaconda: <br/>
 https://www.anaconda.com/products/distribution <br/>
-#Code rerference: <br/>
+#Code reference: <br/>
 Provided by Professor Omar Al-Trad.
 
