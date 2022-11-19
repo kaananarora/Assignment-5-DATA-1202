@@ -1,8 +1,8 @@
 # Assignment-5-DATA-1202
 
 
-#Project Title
-#Creating a Function to calculate distribution of Channel type from to 1000 records from youtube_dataset.xlsx dataset.
+#Project Title <br/>
+Creating a Function to calculate distribution of Channel type from to 1000 records from youtube_dataset.xlsx dataset.
 
 #Prerequisites
 #import numpy as np: Utilizing numpy python library
